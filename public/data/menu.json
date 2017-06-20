@@ -1,0 +1,22 @@
+[ 
+  { 
+       "id": "ALERT", 
+       "page": "alert",
+       "isSelected": false
+  }, 
+  { 
+       "id" : "POPUP", 
+       "page" : "popup",
+       "isSelected": false
+  }, 
+  { 
+       "id" : "TEXT BOX", 
+       "page" : "textBox",
+       "isSelected": false 
+  }, 
+  { 
+       "id": "TABLE", 
+       "page": "table",
+       "isSelected": false
+  }
+]

@@ -1,0 +1,8 @@
+{
+    "dyimage": [
+                { "id":"sample1.jpg" },
+                { "id": "sample2.jpg"},
+                { "id":"sample3.jpg" }
+              
+]
+}

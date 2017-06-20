@@ -1,0 +1,89 @@
+[
+  {
+        "bgstyle": "dark-shade-bg col-md-3",
+		"tilecolor": "",
+        "header": "Tile 1",
+		"background": "",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 1
+      },
+      {
+        "bgstyle": "dark-shade-bg col-md-3",
+		"tilecolor": "",
+        "header": "Tile 2",
+		"background": "images/faqs.png",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 2
+      }
+	  ,
+      {
+        "bgstyle": "dark-shade-bg col-md-3",
+		"tilecolor": "",
+        "header": "Tile 3",
+		"background": "images/faqs.png",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 3
+      }
+	  ,
+      {
+        "bgstyle": "dark-shade-bg col-md-3",
+		"tilecolor": "",
+        "header": "Tile 4",
+		"background": "images/faqs.png",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 4
+      },
+      {
+        "bgstyle": "dark-shade-bg col-md-6",
+		"tilecolor": "",
+        "header": "Tile 5",
+		"background": "",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 5
+      },
+      {
+        "bgstyle": "dark-shade-bg col-md-6",
+		"tilecolor": "",
+        "header": "Tile 6",
+		"background": "images/faqs.png",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 6
+      }
+	  ,
+      {
+        "bgstyle": "dark-shade-bg col-md-12",
+		"tilecolor": "",
+        "header": "Tile 7",
+		"background": "images/faqs.png",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 7
+      }
+]

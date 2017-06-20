@@ -1,0 +1,67 @@
+[
+
+    {
+      
+      "type":"text",
+      "placeholder":"Enter text here",
+      "IsMandatory":"true",
+      "class":"form-control input-lg search-main",
+      "min":"",
+      "max":"",
+      "model":""
+
+    },
+
+    {
+      
+      "type":"email",
+      "placeholder":"Enter email here",
+      "IsMandatory":"true",
+      "class":"form-control input-lg search-main",
+      "min":"",
+      "max":"",
+      "model":""
+
+    },
+
+
+    {
+      
+      "type":"password",
+      "placeholder":"Enter password here",
+      "IsMandatory":"true",
+      "class":"form-control input-lg search-main",
+      "min":"",
+      "max":"",
+      "model":""
+
+    },
+
+    {
+      
+      "type":"number",
+      "placeholder":"Enter number here",
+      "IsMandatory":"true",
+      "class":"form-control input-lg search-main",
+      "min": 0,
+      "max": 10,
+      "model":""
+
+    },
+
+
+     {
+      
+      "type":"date",
+      "placeholder":"Enter date here",
+      "IsMandatory":"true",
+     "class":"form-control input-lg search-main",
+      "min":"",
+      "max":"",
+      "model":""
+
+    }
+
+]
+
+

@@ -1,0 +1,16 @@
+[
+
+    {
+      
+      "type":"textArea",
+      "placeholder":"Enter text here",
+      "IsMandatory":"true",
+      "class":"form-control input-lg search-main",
+      "rows":3,
+      "columns":5,
+      "maxLength":"",
+      "model":""
+
+    }
+
+ ]

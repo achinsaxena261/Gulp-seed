@@ -1,0 +1,10 @@
+[
+    {"content_type" : "image", "title" : "Image 00", "data" : "sample2.jpg"},
+    {"content_type" : "notes", "title" : "Notes 00", "data" : "textbox is used for input the text"},
+    {"content_type" : "image", "title" : "Image 01", "data" : "sample2.jpg"},
+    {"content_type" : "notes", "title" : "Notes 01", "data" : "button is for message display"},
+    {"content_type" : "image", "title" : "Image 02", "data" : "sample3.jpg"},
+    {"content_type" : "notes", "title" : "Notes 02", "data" : "carousel is for displaying information"},
+    {"content_type" : "image", "title" : "Image 03", "data" : "sample4.jpg"},
+    {"content_type" : "notes", "title" : "Notes 03", "data" : "tab is used for display info/message in separate way"}
+]

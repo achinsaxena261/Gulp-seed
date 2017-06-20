@@ -1,0 +1,46 @@
+{
+	"data": [{
+		"id": "0",
+		"firstName": "Mark",
+		"lastName": "Otto",
+		"eMail": "markOtto@gmail.com"
+	}, {
+		"id": "1",
+		"firstName": "Jacob",
+		"lastName": "Thornton",
+		"eMail": "jacobThornton@gmail.com"
+	}, {
+		"id": "2",
+		"firstName": "Larry",
+		"lastName": "Bird",
+		"eMail": "laryBird@gmail.com"
+	}],
+	"columnDefs": [{
+		"field": "id",
+		"headerLevel": "ID",
+		"visible": true,
+		"searchable": true
+	}, {
+		"field": "firstName",
+		"headerLevel": "First Name",
+		"visible": true,
+		"searchable": true
+	}, {
+		"field": "lastName",
+		"headerLevel": "Last Name",
+		"visible": true,
+		"searchable": true
+	}, {
+		"field": "eMail",
+		"headerLevel": "E-Mail",
+		"visible": true,
+		"searchable": false
+	}],
+	"isPagination": true,
+	"offSetLimits": ["5", "10", "25", "50", "100"],
+	"offset": "10",
+	"isSorting": true,
+	"sortableColumn": "firstName",
+	"sortableType": "ASC",
+	"showActions": true
+}

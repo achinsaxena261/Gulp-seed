@@ -1,0 +1,62 @@
+{
+	"data": [{
+		"employID": "300450",
+		"name": "Ashim Kumar Dash Sharma",
+		"designation ": "Consultant, Engineering",
+		"eMail": "ashim.sharma@globallogic.com"
+	}, 
+	{
+		"employID": "310929",
+		"name": "Nagendra Dwarakinath",
+		"designation ": "Solution Architect, Technology",
+		"eMail": "nagendra.d1@globallogic.com"
+	}, 
+	{
+		"employID": "310931",
+		"name": "Ritesh Kumar",
+		"designation ": "Associate Consultant, Engineering",
+		"eMail": "ritesh.kumar@globallogic.com"
+	}, 
+	{
+		"employID": "311577",
+		"name": "Koushik Chhetri",
+		"designation ": "Associate Consultant, Engineering",
+		"eMail": "koushik.chhetri@globallogic.com"
+	}, 
+	{
+		"employID": "310968",
+		"name": "Swastika Srivastava",
+		"designation ": "Trainee Software Engineer, Engineering",
+		"eMail": "swastika.srivastava@globallogic.com"
+	}, 
+	{
+		"employID": "310962",
+		"name": "Achin Saxena",
+		"designation ": "Trainee Software Engineer, Engineering",
+		"eMail": "achin.saxena@globallogic.com"
+	}, 
+	{
+		"employID": "310974",
+		"name": "Priyanka S.N",
+		"designation ": "Trainee Software Engineer, Engineering",
+		"eMail": "priyanka.sn@globallogic.com"
+	}, 
+	{
+		"employID": "310175",
+		"name": "Shailendra Pathak",
+		"designation ": "Senior Software Engineer, Engineering",
+		"eMail": "shailendra.pathak@globallogic.com"
+	}, 
+	{
+		"employID": "310774",
+		"name": "Sreerag K",
+		"designation ": "Associate Consultant, Engineering",
+		"eMail": "sreenaraj.kinathy@globallogic.com"
+	}, 
+	{
+		"employID": "310013",
+		"name": "Krishnaprasad Kodangala Vishnumoorthy",
+		"designation ": "Senior Solution Architect, Technology",
+		"eMail": "k.kodangala@globallogic.com"
+	}]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "gl-library-master",
+  "version": "0.0.1",
+  "description": "gl-library-master",
+  "main": "gl-library-master",
+  "author": "globallogic",
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "browser-sync": "^2.12.8",
+    "dependencies": "0.0.1",
+    "express": "~4.7.2",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.12.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
+    "http-server": "^0.6.1",
+    "jshint-stylish": "^2.0.1",
+    "mongoose": "~3.6.2"
+  },
+  "devDependencies": {
+    "gulp-connect": "^3.2.2",
+    "gulp-open": "^1.0.0"
+  }
+}

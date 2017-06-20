@@ -1,0 +1,52 @@
+[
+  {
+        "bgstyle": "form-builder-tile-bg col-md-12",
+		"tilecolor": "",
+        "header": "Click",
+		"background": "",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 1
+      },
+      {
+        "bgstyle": "form-builder-tile-bg col-md-12",
+		"tilecolor": "",
+        "header": "Place",
+		"background": "images/faqs.png",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 2
+      }
+	  ,
+      {
+        "bgstyle": "form-builder-tile-bg col-md-12",
+		"tilecolor": "",
+        "header": "Verify",
+		"background": "images/faqs.png",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 3
+      }
+	  ,
+      {
+        "bgstyle": "form-builder-tile-bg col-md-12",
+		"tilecolor": "",
+        "header": "Generate",
+		"background": "images/faqs.png",
+        "paragraph": "Mauris commodo quam augue, nec tristique ligula faucibus at. Ut porttitor venenatis lorem,",
+        "link": {
+          "name": "> more",
+          "navigateTo": "#"
+        },
+        "order": 4
+      }
+]

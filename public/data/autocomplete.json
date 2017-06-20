@@ -1,0 +1,15 @@
+{
+	"name": "myautocomplete",
+	"placeholder": "Please provide search term",
+	"type":"combobox",
+	"modelName": "search",
+	"class": "form-control",
+	"style": {"box":{"width":"300px"},"content":{"height":"300px"}},
+	"direction": "down",
+	"minLength": 3,
+	"pause": 100,
+	"searchField": "query",
+	"remote-url": "data/country.json",
+	"dataFieldItem": "data",
+	"matchClass": "highlight"
+}
